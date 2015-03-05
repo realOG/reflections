@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+Adds a hidden file and converts a normal directory into a repo
+
+
+
