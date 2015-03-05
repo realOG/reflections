@@ -1,5 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 Adds a hidden file and converts a normal directory into a repo
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area host files that are awaiting to be commited.  Allows you back out of changes if necessary.
 
 
