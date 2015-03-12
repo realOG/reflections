@@ -4,5 +4,8 @@ Remote repo allows you to back and share your code.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Sometimes you may want more granularity on the changes coming into your local repo to make sure it's synced properly.
 
-
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks are in copied repos in Github.
+Clones bring repos in Github locally
+Branches are copies of the same repo
 
